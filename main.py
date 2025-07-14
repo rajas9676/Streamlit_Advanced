@@ -18,6 +18,7 @@ st.title('Streamlit Advanced Application')
 
 # I am adding this new line
 # I am adding one more line
+
 def get_params(algo_name):
     params = dict()
     if algo_name == 'KNN':
