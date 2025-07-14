@@ -16,7 +16,7 @@ matplotlib.use('Agg')
 
 st.title('Streamlit Advanced Application')
 
-
+# I am adding this new line
 def get_params(algo_name):
     params = dict()
     if algo_name == 'KNN':
